@@ -16,3 +16,12 @@ Guided project for **Node DB3** Module.
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor creates database access methods for a multi table schema.
+
+## Menu
+
+- multi table queries
+- foreign key constraint - look at documentation
+- data access functions
+- aggregate functions
+
+A foreign key column on a table is a column that references the primary key of another table
